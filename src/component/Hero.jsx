@@ -1,5 +1,5 @@
 //import { useEffect, useState } from "react";
-import Profile from "../assets/Profile.jpeg";
+import Profile from "../assets/profile.jpeg";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { MdOutlineMailOutline } from "react-icons/md";
 import Resume from "../assets/Shahad Gul Resume.pdf";

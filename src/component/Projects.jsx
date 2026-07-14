@@ -1,7 +1,7 @@
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 
 import Calculator from "../assets/Calculator.png";
-import Portfolio from "../assets/Portfolio.png";
+import Portfolio from "../assets/portfolio.png";
 //import todo from "../assets/todo.png";
 //import weather from "../assets/weather.png";
 //import social from "../assets/social.png";

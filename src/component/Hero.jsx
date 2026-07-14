@@ -1,5 +1,5 @@
 //import { useEffect, useState } from "react";
-import profile from "../assets/profile.jpeg";
+import Profile from "../assets/Profile.jpeg";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { MdOutlineMailOutline } from "react-icons/md";
 import Resume from "../assets/Shahad Gul Resume.pdf";
@@ -32,7 +32,7 @@ function Hero() {
           <div className="relative">
             <div className="absolute inset-0 bg-cyan-500 blur-3xl opacity-30 rounded-full"></div>
             <img
-              src={profile}
+              src={Profile}
               alt="Profile"
               className="relative w-72 md:w-96 rounded-full border-4 border-cyan-500 shadow-2xl"
             />

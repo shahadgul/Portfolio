@@ -1,7 +1,7 @@
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 
-import calculator from "../assets/calculator.png";
-import portfolio from "../assets/portfolio.png";
+import Calculator from "../assets/Calculator.png";
+import Portfolio from "../assets/Portfolio.png";
 //import todo from "../assets/todo.png";
 //import weather from "../assets/weather.png";
 //import social from "../assets/social.png";
@@ -10,7 +10,7 @@ import portfolio from "../assets/portfolio.png";
 const projects = [
   {
     title: "Calculator App",
-    image: calculator,
+    image: Calculator,
     description: "A responsive calculator built with React and Tailwind CSS.",
     tech: ["React", "Tailwind CSS"],
     github: "https://github.com/shahadgul",
@@ -31,7 +31,7 @@ const projects = [
 
   {
     title: "Portfolio",
-    image: portfolio,
+    image: Portfolio,
     description:
       "Personal portfolio website showcasing my projects, skills, and experience.",
     tech: ["HTML", "Tailwind css", "React"],
